@@ -2,15 +2,6 @@
 
 ![Preview](https://res.cloudinary.com/koruja/image/upload/v1702231950/management_app_kimusq.png)
 
-## Table of contents
-
-- [General info](#general-info)
-
-## General info
-
-<p align="left">
- Project management app
-</p>
 
 ## Technologies
 
